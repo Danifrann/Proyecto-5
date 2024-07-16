@@ -31,7 +31,7 @@ function CosasPerrunas() {
 
     return (
         <div>
-            <h1>Datos aleatoreos de perros! (lo siento, en inglés) </h1>
+            <h1>Datos aleatorios de perros! (lo siento, en inglés) </h1>
             {loading ? (
                 <p>Cargando cosas perrunas...</p>
             ) : error ? (

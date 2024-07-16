@@ -6,6 +6,10 @@ Proyecto 5 - Daniela Fonseca
 
 Una aplicación web que muestra datos acerca de perritos.
 
+## Despliegue Netlify
+
+https://bespoke-granita-b1db87.netlify.app/
+
 ## Características
 
 - **Api**: Los datos de perritos son obtenidos mediante una api 

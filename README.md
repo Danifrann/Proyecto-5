@@ -1,8 +1,13 @@
-# React + Vite
+# React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto 5 - Daniela Fonseca
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Una aplicación web que muestra datos acerca de perritos.
+
+## Características
+
+- **api**: Los datos de perritos son obtenidos mediante una api 
+- **Actualización**: Se utiliza useEffect para actualizar los datos de la web
+- **Props**: Se pasan los datos del alumno y proyecto como props al componente Presentación
